@@ -58,6 +58,9 @@ body{
 	display: table;
 	content: '';
 }
+.spacer{
+	margin: 1em;
+}
 
 /*------------------------------------------------------------------*/
 /*	02) BUILDIFY SKELETON
@@ -122,7 +125,8 @@ body{
 	height: auto;
 	clear: both;
 	float: left;
-
+	margin-top:2em;
+	
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
 	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
 			box-sizing: border-box; /* Opera/IE 8+ */

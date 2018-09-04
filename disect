@@ -1,0 +1,607 @@
+<!-- /SHORT SERVICES -->
+<div class="buildify_tm_section">
+  <div class="container">
+    <div class="buildify_check_list_wrap buildify_tm_miniboxes">
+      <ul>
+        <li>
+          <div class="inner">
+            <div class="title_holder buildify_tm_minibox" style="height: 50px;">
+              <div class="shape">
+                <span></span>
+              </div>
+              <div class="definition">
+                <h3>We Have ISO Certificate</h3>
+                <span>An ISO 1900:2007</span>
+              </div>
+            </div>
+            <div class="image_holder">
+              <div class="image_wrap">
+                <img src="./res/350x380.jpg" alt="">
+                <div class="inner_image"></div>
+              </div>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div class="inner">
+            <div class="title_holder buildify_tm_minibox" style="height: 50px;">
+              <div class="shape">
+                <span></span>
+              </div>
+              <div class="definition">
+                <h3>We Provide High Services</h3>
+                <span>That you have expected</span>
+              </div>
+            </div>
+            <div class="image_holder">
+              <div class="image_wrap">
+                <img src="./res/350x380.jpg" alt="">
+                <div class="inner_image"></div>
+              </div>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div class="inner">
+            <div class="title_holder buildify_tm_minibox" style="height: 50px;">
+              <div class="shape">
+                <span></span>
+              </div>
+              <div class="definition">
+                <h3>Most Expirienced Company</h3>
+                <span>In the constrution business</span>
+              </div>
+            </div>
+            <div class="image_holder">
+              <div class="image_wrap">
+                <img src="./res/350x380.jpg" alt="">
+                <div class="inner_image"></div>
+              </div>
+            </div>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+
+<div class="buildify_tm_section">
+  <div class="container">
+    <div class="buildify_tm_counter_wrap_all">
+      <div class="leftbox">
+        <div class="roof">
+          <span style="border-left-width: 360px;"></span>
+        </div>
+        <div class="inner">
+          <p>What we have done in numbers</p>
+        </div>
+      </div>
+      <div class="rightbox">
+        <div class="buildify_tm_counter_wrap" data-col="4" data-delay="300">
+          <ul class="buildify_tm_counter_list buildify_tm_miniboxes">
+            <li>
+              <div class="inner buildify_tm_minibox" style="height: 144px;">
+                <h3><span style="white-space: nowrap; display: inline-block; font-size: 40px;"><span class="buildify_tm_counter" data-from="0" data-to="3572" data-speed="3000">0</span></span></h3>
+                <span>Projects Completed</span>
+              </div>
+            </li>
+            <li>
+              <div class="inner buildify_tm_minibox" style="height: 144px;">
+                <h3><span style="white-space: nowrap; display: inline-block; font-size: 40px;"><span class="buildify_tm_counter" data-from="0" data-to="300" data-speed="3000">0</span>K</span></h3>
+                <span>Company Clients</span>
+              </div>
+            </li>
+            <li>
+              <div class="inner buildify_tm_minibox" style="height: 144px;">
+                <h3><span style="white-space: nowrap; display: inline-block; font-size: 40px;"><span class="buildify_tm_counter" data-from="0" data-to="2348" data-speed="3000">0</span></span></h3>
+                <span>Professional Workers</span>
+              </div>
+            </li>
+            <li>
+              <div class="inner buildify_tm_minibox" style="height: 144px;">
+                <h3><span style="white-space: nowrap; display: inline-block; font-size: 40px;"><span class="buildify_tm_counter" data-from="0" data-to="120" data-speed="3000">0</span>+</span></h3>
+                <span>Company Awards</span>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="buildify_tm_project_video">
+      <span>
+        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="443.307px" height="443.306px" viewBox="0 0 443.307 443.306" style="enable-background:new 0 0 443.307 443.306;" xml:space="preserve" class="svg replaced-svg">
+<g>
+<path d="M415.934,212.799L36.788,2.097C32.411-0.377,28.65-0.661,25.51,1.242c-3.14,1.902-4.708,5.328-4.708,10.276V431.78   c0,4.952,1.569,8.381,4.708,10.284c3.14,1.902,6.901,1.622,11.278-0.855l379.146-210.703c4.381-2.478,6.571-5.434,6.571-8.856   C422.505,218.224,420.314,215.274,415.934,212.799z"></path>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
+      </span>
+      <a class="project_time" href="#">View Company Promo Video</a>
+      <a class="project_video_button popup-youtube" href="https://www.youtube.com/watch?v=se4yc09w7Ic"></a>
+    </div>
+  </div>
+</div>
+
+
+<div class="buildify_tm_section">
+  <div class="container">
+    <div class="buildify_tm_principles_wrap">
+      <div class="list_wrap">
+        <ul class="masonry" style="position: relative; height: 720px;">
+          <li class="item" style="position: absolute; left: 0px; top: 0px;">
+            <div class="inner">
+                <span class="leftshape"></span>
+                  <span class="topshape"></span>
+                <div class="in">
+                <div class="title">
+                  <h3>Humility</h3>
+                </div>
+                <div class="definition">
+                  <p>Be humble in all dealings with our partners, clients and team members. True wisdom and understanding belong to the humble.</p>
+                </div>
+                <div class="number">
+                  <span>01</span>
+                </div>
+              </div>
+            </div>
+          </li>
+          <li class="item" style="position: absolute; left: 404px; top: 0px;">
+            <div class="inner">
+                <span class="leftshape"></span>
+                  <span class="topshape"></span>
+                <div class="in">
+                <div class="title">
+                  <h3>Honesty</h3>
+                </div>
+                <div class="definition">
+                  <p>Be sure of our facts and be honest and straightforward in all of our dealings with each other and good our clients.</p>
+                </div>
+                <div class="number">
+                  <span>02</span>
+                </div>
+              </div>
+            </div>
+          </li>
+          <li class="item" style="position: absolute; left: 809px; top: 0px;">
+            <div class="inner">
+                <span class="leftshape"></span>
+                  <span class="topshape"></span>
+                <div class="in">
+                <div class="title">
+                  <h3>Integrity</h3>
+                </div>
+                <div class="definition">
+                  <p>Over the years, we have gained a reputation for integrity and trust from our customers who continue to use our services.</p>
+                </div>
+                <div class="number">
+                  <span>03</span>
+                </div>
+              </div>
+            </div>
+          </li>
+          <li class="item" style="position: absolute; left: 0px; top: 360px;">
+            <div class="inner">
+                <span class="leftshape"></span>
+                  <span class="topshape"></span>
+                <div class="in">
+                <div class="title">
+                  <h3>Quality Work</h3>
+                </div>
+                <div class="definition">
+                  <p>We ensure that all projects are done with professionalism using quality materials while offering clients the support and accessibility.</p>
+                </div>
+                <div class="number">
+                  <span>04</span>
+                </div>
+              </div>
+            </div>
+          </li>
+          <li class="item" style="position: absolute; left: 404px; top: 360px;">
+            <div class="inner">
+                <span class="leftshape"></span>
+                  <span class="topshape"></span>
+                <div class="in">
+                <div class="title">
+                  <h3>Passion</h3>
+                </div>
+                <div class="definition">
+                  <p>Success is when we can achieve results in the things we are passionate about and feel as though we are making a difference.</p>
+                </div>
+                <div class="number">
+                  <span>05</span>
+                </div>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="buildify_tm_section">
+  <div class="buildify_tm_news_wrap fn_w_sminiboxes">
+    <div class="container">
+      <div class="inner_wrap">
+        <div class="buildify_tm_projects_leftbox fn_w_sminibox" style="height: 2599.11px;">
+          <div class="buildify_fn_sticky_section">
+            <div class="buildify_tm_main_title_wrap">
+              <div class="title">
+                <h3>Latest blog articles</h3>
+              </div>
+              <div class="subtitle">
+                <p>Its a burning, never-ending desire to help our clients maximize their outcomes and exceed their strategic goals. Though our goal is a bit aspirational, our values are what drive us every day.</p>
+              </div>
+              <div class="buildify_tm_button_wrap">
+                <a href="#">View all articles</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="buildify_tm_rightbox fn_w_sminibox" style="height: 2599.11px;">
+          <div class="buildify_fn_sticky_section">
+            <div class="news_list_wrap">
+              <ul class="masonry" style="position: relative; height: 2599.12px;">
+                <li class="item" style="position: absolute; left: 0px; top: 0px;">
+                  <div class="inner">
+                    <div class="image_wrap">
+                      <img src="./res/340x230.jpg" alt="">
+                      <a href="blog-single.html"><div class="image"></div></a>
+                    </div>
+                    <div class="definitions_wrap">
+                      <div class="title_holder">
+                        <h3><a href="blog-single.html">Laing O'Rourke: Moves, projects and bids</a></h3>
+                      </div>
+                      <div class="read_more_wrap">
+                        <div class="read_more_in">
+                          <a href="blog-single.html">Read More</a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <li class="item" style="position: absolute; left: 0px; top: 664px;">
+                  <div class="inner">
+                    <div class="image_wrap">
+                      <img src="./res/340x230.jpg" alt="">
+                      <a href="blog-single.html"><div class="image"></div></a>
+                    </div>
+                    <div class="definitions_wrap">
+                      <div class="title_holder">
+                      <h3><a href="blog-single.html">How to turn Victorian gasholders into luxury apartments</a></h3>
+                      </div>
+                      <div class="read_more_wrap">
+                        <div class="read_more_in">
+                          <a href="blog-single.html">Read More</a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <li class="item" style="position: absolute; left: 0px; top: 1329px;">
+                  <div class="inner">
+                    <div class="image_wrap">
+                      <img src="./res/340x230.jpg" alt="">
+                      <a href="blog-single.html"><div class="image"></div></a>
+                    </div>
+                    <div class="definitions_wrap">
+                      <div class="title_holder">
+                      <h3><a href="blog-single.html">CITB appoints Peter Lauener as new chairman</a></h3>
+                      </div>
+                      <div class="read_more_wrap">
+                        <div class="read_more_in">
+                          <a href="blog-single.html">Read More</a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <li class="item" style="position: absolute; left: 0px; top: 1994px;">
+                  <div class="inner">
+                    <div class="image_wrap">
+                      <img src="./res/340x230.jpg" alt="">
+                      <a href="blog-single.html"><div class="image"></div></a>
+                    </div>
+                    <div class="definitions_wrap">
+                      <div class="title_holder">
+                      <h3><a href="blog-single.html">New Tower in the Nothern Centre of Warsaw</a></h3>
+                      </div>
+                      <div class="read_more_wrap">
+                        <div class="read_more_in">
+                          <a href="blog-single.html">Read More</a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+<div class="buildify_tm_section">
+  <div class="buildify_tm_testimonial_wrap">
+    <div class="buildify_tm_universal_parallax_wrap">
+      <div class="main_bg">
+        <div class="overlay_image"></div>
+        <div class="overlay_video">
+          <video autoplay="" loop="" muted="">
+            <source src="video/1.mp4" type="video/mp4">
+          </video>
+        </div>
+        <div class="overlay_color testimonial"></div>
+      </div>
+      <div class="main_content">
+        <div class="container">
+          <div class="buildify_tm_universal_carousel_wrap testimonial">
+            <div class="title_holder light">
+              <div class="span">
+                <h3>Testimonials</h3>
+              </div>
+
+            </div>
+            <div class="container">
+              <div class="carousel_nav">
+                <div class="custom_nav">
+                  <a href="#" class="prev"></a>
+                  <a href="#" class="next"></a>
+                </div>
+              </div>
+            </div>
+            <div class="main_carousel_wrap">
+              <ul class="owl-carousel owl-loaded owl-drag">
+
+
+
+
+              <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 1560px;"><div class="owl-item active" style="width: 390px;"><li class="item">
+                  <div class="inner">
+                    <div class="testimonial_definition">
+                      <p>Mac Foods has partnered with Buildify for 10 years on a variety of projects across the country. We have done several projects.</p>
+                    </div>
+                    <div class="name_holder_wrap">
+                      <div class="image">
+                        <img src="./res/1.jpg" alt="">
+                      </div>
+                      <div class="name">
+                        <span>John Doe</span>
+                        <span>Constructor</span>
+                      </div>
+                    </div>
+                    <div class="quote">
+                      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="512.5px" height="512.5px" viewBox="0 0 512.5 512.5" style="enable-background:new 0 0 512.5 512.5;" xml:space="preserve" class="svg replaced-svg">
+<g>
+<path d="M112.5,208.25c61.856,0,112,50.145,112,112s-50.144,112-112,112s-112-50.145-112-112l-0.5-16   c0-123.712,100.288-224,224-224v64c-42.737,0-82.917,16.643-113.137,46.863c-5.817,5.818-11.126,12.008-15.915,18.51   C100.667,208.723,106.528,208.25,112.5,208.25z M400.5,208.25c61.855,0,112,50.145,112,112s-50.145,112-112,112   s-112-50.145-112-112l-0.5-16c0-123.712,100.287-224,224-224v64c-42.736,0-82.918,16.643-113.137,46.863   c-5.818,5.818-11.127,12.008-15.916,18.51C388.666,208.723,394.527,208.25,400.5,208.25z"></path>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
+                    </div>
+                  </div>
+                </li></div><div class="owl-item active" style="width: 390px;"><li class="item">
+                  <div class="inner">
+                    <div class="testimonial_definition">
+                      <p>Mac Foods has partnered with Buildify for 10 years on a variety of projects across the country. We have done several projects.</p>
+                    </div>
+                    <div class="name_holder_wrap">
+                      <div class="image">
+                        <img src="./res/3.jpg" alt="">
+                      </div>
+                      <div class="name">
+                        <span>Jack Nelson</span>
+                        <span>Director of Alp.Co</span>
+                      </div>
+                    </div>
+                    <div class="quote">
+                      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="512.5px" height="512.5px" viewBox="0 0 512.5 512.5" style="enable-background:new 0 0 512.5 512.5;" xml:space="preserve" class="svg replaced-svg">
+<g>
+<path d="M112.5,208.25c61.856,0,112,50.145,112,112s-50.144,112-112,112s-112-50.145-112-112l-0.5-16   c0-123.712,100.288-224,224-224v64c-42.737,0-82.917,16.643-113.137,46.863c-5.817,5.818-11.126,12.008-15.915,18.51   C100.667,208.723,106.528,208.25,112.5,208.25z M400.5,208.25c61.855,0,112,50.145,112,112s-50.145,112-112,112   s-112-50.145-112-112l-0.5-16c0-123.712,100.287-224,224-224v64c-42.736,0-82.918,16.643-113.137,46.863   c-5.818,5.818-11.127,12.008-15.916,18.51C388.666,208.723,394.527,208.25,400.5,208.25z"></path>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
+                    </div>
+                  </div>
+                </li></div><div class="owl-item active" style="width: 390px;"><li class="item">
+                  <div class="inner">
+                    <div class="testimonial_definition">
+                      <p>Mac Foods has partnered with Buildify for 10 years on a variety of projects across the country. We have done several projects.</p>
+                    </div>
+                    <div class="name_holder_wrap">
+                      <div class="image">
+                        <img src="./res/2.jpg" alt="">
+                      </div>
+                      <div class="name">
+                        <span>Aurel Benessa</span>
+                        <span>Consultant Company</span>
+                      </div>
+                    </div>
+                    <div class="quote">
+                      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="512.5px" height="512.5px" viewBox="0 0 512.5 512.5" style="enable-background:new 0 0 512.5 512.5;" xml:space="preserve" class="svg replaced-svg">
+<g>
+<path d="M112.5,208.25c61.856,0,112,50.145,112,112s-50.144,112-112,112s-112-50.145-112-112l-0.5-16   c0-123.712,100.288-224,224-224v64c-42.737,0-82.917,16.643-113.137,46.863c-5.817,5.818-11.126,12.008-15.915,18.51   C100.667,208.723,106.528,208.25,112.5,208.25z M400.5,208.25c61.855,0,112,50.145,112,112s-50.145,112-112,112   s-112-50.145-112-112l-0.5-16c0-123.712,100.287-224,224-224v64c-42.736,0-82.918,16.643-113.137,46.863   c-5.818,5.818-11.127,12.008-15.916,18.51C388.666,208.723,394.527,208.25,400.5,208.25z"></path>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
+                    </div>
+                  </div>
+                </li></div><div class="owl-item" style="width: 390px;"><li class="item">
+                  <div class="inner">
+                    <div class="testimonial_definition">
+                      <p>Mac Foods has partnered with Buildify for 10 years on a variety of projects across the country. We have done several projects.</p>
+                    </div>
+                    <div class="name_holder_wrap">
+                      <div class="image">
+                        <img src="./res/1.jpg" alt="">
+                      </div>
+                      <div class="name">
+                        <span>Mark Win</span>
+                        <span>Company Manager</span>
+                      </div>
+                    </div>
+                    <div class="quote">
+                      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="512.5px" height="512.5px" viewBox="0 0 512.5 512.5" style="enable-background:new 0 0 512.5 512.5;" xml:space="preserve" class="svg replaced-svg">
+<g>
+<path d="M112.5,208.25c61.856,0,112,50.145,112,112s-50.144,112-112,112s-112-50.145-112-112l-0.5-16   c0-123.712,100.288-224,224-224v64c-42.737,0-82.917,16.643-113.137,46.863c-5.817,5.818-11.126,12.008-15.915,18.51   C100.667,208.723,106.528,208.25,112.5,208.25z M400.5,208.25c61.855,0,112,50.145,112,112s-50.145,112-112,112   s-112-50.145-112-112l-0.5-16c0-123.712,100.287-224,224-224v64c-42.736,0-82.918,16.643-113.137,46.863   c-5.818,5.818-11.127,12.008-15.916,18.51C388.666,208.723,394.527,208.25,400.5,208.25z"></path>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
+                    </div>
+                  </div>
+                </li></div></div></div><div class="owl-nav"><div class="owl-prev disabled">prev</div><div class="owl-next">next</div></div><div class="owl-dots disabled"></div></ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
