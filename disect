@@ -605,3 +605,40 @@
     </div>
   </div>
 </div>
+
+
+<!---Hkkımızda--->
+<div class="buildify_tm_section">
+  <div class="container">
+    <div class="buildify_tm_about_company_wrap">
+      <div class="buildify_tm_leftbox">
+        <div class="buildify_tm_main_title_wrap">
+          <div class="title">
+            <h3>Hakkımızda</h3>
+          </div>
+          <div class="subtitle">
+            <p>Çeşitli sektörlerde yıllardır hizmet vererek emin adımlarla bugünlere geldiğimiz gibi gelecekte de markamızın konumunu korumak ve güçlendirmekteyiz.</p>
+          </div>
+        </div>
+        <div class="sign">
+          <img src="./res/dark.png" alt="">
+        </div>
+        <div class="author_name">
+          <span>Kemal Sayınkaplan</span>
+        </div>
+      </div>
+      <div class="rightbox">
+        <div class="first_image">
+          <img src="./res/460x500.jpg" alt="">
+          <div class="image"></div>
+        </div>
+        <div class="second_image_wrap">
+          <div class="inner">
+            <img src="./res/460x500.jpg" alt="">
+            <div class="image"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
