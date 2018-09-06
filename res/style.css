@@ -1745,7 +1745,8 @@ h1,h2,h3,h4,h5,h6{
 	clear: both;
 	float: left;
 	background-color: #0d0e13;
-
+	margin-top: -30px;
+    margin-bottom: -30px;
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
 	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
 			box-sizing: border-box; /* Opera/IE 8+ */
@@ -1765,6 +1766,7 @@ h1,h2,h3,h4,h5,h6{
 	color: #cccccc;
 	font-weight: 500;
 	line-height: 100px;
+
 }
 .buildify_tm_rating_wrap{
 	width: 100%;
@@ -5697,6 +5699,7 @@ h1,h2,h3,h4,h5,h6{
 .buildify_tm_copyright_wrap{
 	background-color: #0d0e13;
 	padding: 59px 0px 57px 0px;
+	    margin-top: -2em;
 }
 .buildify_tm_copyright_wrap .inner_wrap{
 	display: flex;
