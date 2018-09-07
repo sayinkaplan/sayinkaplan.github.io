@@ -35,7 +35,8 @@
 html {
 	overflow-x: hidden;
 	padding: 0px;
-	margin: 0px
+	margin: 0px;
+	background-color: #0d0e13;
 }
 body{
 	font-family: "Open Sans";
@@ -165,7 +166,7 @@ body{
 	left: 0px;
 	top: 0px;
 	z-index: 6;
-	background-color: #DAA520;
+	background-color: #111422;
 	background-image: url(../img/green-dust-and-scratches.png);
 	background-repeat: repeat;
 }
@@ -176,7 +177,7 @@ body{
 	left: 100%;
 	content: '';
 	top: 0px;
-	background-color: #DAA520;
+	background-color: #111422;
 	transform: skewX(-26deg);
 	margin-left: -76px;
 	z-index: 3;
@@ -754,11 +755,11 @@ h1,h2,h3,h4,h5,h6{
 	left: 12px;
 	bottom: 0px;
 	transform: skewX(-18deg);
-	background-color: #778899;
+	background-color: #D3D3D3;
 	z-index: 2;
 }
 .buildify_tm_connection .phone_numb_in{
-	background-color: #778899;
+	background-color: #D3D3D3;
 	padding-left: 87px;
 	padding-right: 40px;
 	position: relative;
@@ -776,7 +777,7 @@ h1,h2,h3,h4,h5,h6{
 	line-height: 70px;
 	font-size: 18px;
 	font-weight: 500;
-	color: #fff;
+	color: #000;
 	letter-spacing: .25px;
 	font-family:"Raleway";
 }
@@ -829,7 +830,7 @@ h1,h2,h3,h4,h5,h6{
 .buildify_tm_main_title_wrap .title h3{
 	font-family: "Raleway";
 	font-size: 60px;
-	color: #181a2f;
+	color: #fff;
 	font-weight: 600;
 	line-height: 1;
 	position: relative;
@@ -846,7 +847,7 @@ h1,h2,h3,h4,h5,h6{
 }
 .buildify_tm_main_title_wrap .subtitle p{
 	font-size: 16px;
-	color: #666666;
+	color: #f0f0f0;
 }
 .buildify_tm_about_company_wrap .sign{
 	padding-top: 42px;
@@ -1612,7 +1613,7 @@ h1,h2,h3,h4,h5,h6{
 			box-sizing: border-box; /* Opera/IE 8+ */
 }
 .buildify_tm_button_wrap.yellow a{
-	color: #fff;
+	color: #000;
 	background-color: #DAA520;
 }
 .buildify_tm_rightbox{
