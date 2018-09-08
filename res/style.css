@@ -3252,7 +3252,409 @@ h1,h2,h3,h4,h5,h6{
 }
 
 /* PORTFOLIO LIST */
+/* PORTFOLIO LIST */
 
+.buildcity_tm_portfolio_list{
+	list-style-type:none;
+	margin: 0px 0px 0px -30px;
+
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
+			box-sizing: border-box; /* Opera/IE 8+ */
+}
+.buildcity_tm_portfolio_list > li{
+	width:33.3333%;
+	float:left;
+	position:relative;
+	margin: 0px 0px 30px 0px;
+	padding-left: 30px;
+
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
+			box-sizing: border-box; /* Opera/IE 8+ */
+}
+.buildcity_tm_portfolio_list .list_inner{
+	width: 100%;
+	height: auto;
+	clear: both;
+	float: left;
+	position: relative;
+
+	-webkit-transition: all .3s ease;
+	   -moz-transition: all .3s ease;
+	    -ms-transition: all .3s ease;
+	     -o-transition: all .3s ease;
+	        transition: all .3s ease;
+
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
+			box-sizing: border-box; /* Opera/IE 8+ */
+}
+.buildcity_tm_portfolio_list .list_inner .image_wrap{
+	position: relative;
+	width: 100%;
+	height: auto;
+	clear: both;
+	float: left;
+
+	-webkit-transition: all .3s ease;
+	   -moz-transition: all .3s ease;
+	    -ms-transition: all .3s ease;
+	     -o-transition: all .3s ease;
+	        transition: all .3s ease;
+}
+.buildcity_tm_portfolio_list .list_inner .image_wrap .image_bg{
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+.buildcity_tm_projects_wrap .buildcity_tm_portfolio_list li:nth-child(1) .image_wrap .image_bg{
+	background-image: url(..//img/portfolio/1.jpg);
+}
+.buildcity_tm_projects_wrap .buildcity_tm_portfolio_list li:nth-child(2) .image_wrap .image_bg{
+	background-image: url(..//img/portfolio/7.jpg);
+}
+.buildcity_tm_projects_wrap .buildcity_tm_portfolio_list li:nth-child(3) .image_wrap .image_bg{
+	background-image: url(..//img/portfolio/11.jpg);
+}
+.buildcity_tm_projects_wrap .buildcity_tm_portfolio_list li:nth-child(4) .image_wrap .image_bg{
+	background-image: url(..//img/portfolio/6.jpg);
+}
+.buildcity_tm_projects_wrap .buildcity_tm_portfolio_list li:nth-child(5) .image_wrap .image_bg{
+	background-image: url(..//img/portfolio/8.jpg);
+}
+.buildcity_tm_projects_wrap .buildcity_tm_portfolio_list li:nth-child(6) .image_wrap .image_bg{
+	background-image: url(..//img/portfolio/9.jpg);
+}
+.buildcity_tm_projects_wrap .buildcity_tm_portfolio_list li:nth-child(7) .image_wrap .image_bg{
+	background-image: url(..//img/portfolio/10.jpg);
+}
+.buildcity_tm_projects_wrap .buildcity_tm_portfolio_list li:nth-child(8) .image_wrap .image_bg{
+	background-image: url(..//img/portfolio/3.jpg);
+}
+.buildcity_tm_projects_wrap .buildcity_tm_portfolio_list li:nth-child(9) .image_wrap .image_bg{
+	background-image: url(..//img/portfolio/12.jpg);
+}
+.buildcity_tm_portfolio_list .list_inner .image_wrap .overlay_color{
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	background-color: rgba(0,0,0,.8);
+
+	-webkit-transition: all .3s ease;
+	   -moz-transition: all .3s ease;
+	    -ms-transition: all .3s ease;
+	     -o-transition: all .3s ease;
+	        transition: all .3s ease;
+
+	opacity: 0;
+	visibility: hidden;
+}
+.buildcity_tm_portfolio_list .list_inner .image_wrap .overlay_title{
+	position: absolute;
+	width: 100%;
+	text-align: center;
+	top: 50%;
+	transform: translateY(-50%);
+}
+.buildcity_tm_portfolio_list .list_inner .image_wrap .overlay_title span{
+	color: #fff;
+	font-size: 22px;
+	font-family: "Montserrat";
+}
+.buildcity_tm_portfolio_list .list_inner .image_wrap .overlay_title span a{
+	text-decoration: none;
+	color: #fff;
+}
+.buildcity_tm_portfolio_list .list_inner .image_wrap .view_project{
+	width: 100%;
+	position: absolute;
+	background-color: #fab702;
+	text-align: center;
+	z-index: 100;
+	left: 0px;
+	top: 100%;
+
+	opacity: 0;
+	visibility: hidden;
+
+	-webkit-transition: all .3s ease;
+	   -moz-transition: all .3s ease;
+	    -ms-transition: all .3s ease;
+	     -o-transition: all .3s ease;
+	        transition: all .3s ease;
+}
+.buildcity_tm_portfolio_list .list_inner .image_wrap .view_project a{
+	text-decoration: none;
+    color: #fff;
+    font-size: 14px;
+    text-transform: uppercase;
+    display: block;
+    padding: 4px 0px 5px 0px;
+	font-family: "Montserrat";
+}
+.buildcity_tm_portfolio_list .list_inner:hover .view_project{
+	opacity: 1;
+	visibility: visible;
+}
+.buildcity_tm_portfolio_list .list_inner:hover .overlay_color{
+	opacity: 1;
+	visibility: visible;
+}
+.buildcity_tm_pagination_wrap{
+	width: 100%;
+	height: auto;
+	clear: both;
+	float: left;
+	margin-bottom: 95px;
+
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
+			box-sizing: border-box; /* Opera/IE 8+ */
+}
+.buildcity_tm_pagination_wrap ul{
+	margin: 0px;
+	list-style-type: none;
+}
+.buildcity_tm_pagination_wrap ul li{
+	margin: 0px 0px 5px 0px;
+	display: inline-block;
+
+	-webkit-transition: all .3s ease;
+	   -moz-transition: all .3s ease;
+	    -ms-transition: all .3s ease;
+	     -o-transition: all .3s ease;
+	        transition: all .3s ease;
+}
+.buildcity_tm_pagination_wrap ul li a{
+	width: 45px;
+	height: 45px;
+	border-radius: 2px;
+	background-color: #dddddd;
+	display: block;
+	text-decoration: none;
+	color: #777;
+	line-height: 45px;
+	text-align: center;
+}
+.buildcity_tm_pagination_wrap ul li span{
+	width: 45px;
+	height: 45px;
+	border-radius: 2px;
+	background-color: #edb600;
+	color: #fff;
+	display: inline-block;
+	text-align: center;
+	line-height: 45px;
+}
+.buildcity_tm_pagination_wrap ul li p{
+	margin-left: 16px;
+	color: #777;
+}
+.buildcity_tm_pagination_wrap ul li a:hover{
+	background-color: #edb600;
+	color: #fff;
+}
+.buildcity_tm_project_single_wrap{
+	width: 100%;
+	height: auto;
+	clear: both;
+	float: left;
+	margin-bottom: 70px;
+
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
+			box-sizing: border-box; /* Opera/IE 8+ */
+}
+.buildcity_tm_project_single_wrap .leftbox{
+	width: 50%;
+	height: auto;
+	float: left;
+
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
+			box-sizing: border-box; /* Opera/IE 8+ */
+}
+.buildcity_tm_project_single_wrap .rightbox{
+	width: 50%;
+	height: auto;
+	float: right;
+	padding-left: 30px;
+
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
+			box-sizing: border-box; /* Opera/IE 8+ */
+}
+.buildcity_tm_project_single_wrap .rightbox_inner{
+	width: 100%;
+	height: auto;
+	clear: both;
+	float: left;
+
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
+			box-sizing: border-box; /* Opera/IE 8+ */
+}
+.buildcity_tm_project_single_wrap .rightbox_inner .sharebox{
+	width: 100%;
+	height: auto;
+	clear: both;
+	float: left;
+	position: relative;
+	background-color: #eeeeee;
+	padding: 15px 40px 15px 40px;
+	overflow: hidden;
+
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
+			box-sizing: border-box; /* Opera/IE 8+ */
+}
+.buildcity_tm_project_single_wrap .rightbox_inner .sharebox:before{
+	position: absolute;
+	content: "";
+	width: 100px;
+	height: 100%;
+	top: 0px;
+	background-color: #f5f5f5;
+	right: -48px;
+	transform: skewX(-25deg);
+}
+.buildcity_tm_project_single_wrap .rightbox_inner .sharebox label{
+	font-size: 14px;
+	color: #777;
+}
+.buildcity_tm_project_single_wrap .rightbox_inner .sharebox ul{
+	padding-right: 25px;
+	margin: 0px;
+	list-style-type: none;
+
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
+			box-sizing: border-box; /* Opera/IE 8+ */
+}
+.buildcity_tm_project_single_wrap .rightbox_inner .sharebox ul li{
+	margin: 0px 7px 0px 0px;
+	display: inline-block;
+}
+.buildcity_tm_project_single_wrap .rightbox_inner .sharebox ul li:last-child{margin-right: 0px;}
+.buildcity_tm_project_single_wrap .rightbox_inner .sharebox ul li a{color: #999;}
+.buildcity_tm_project_details_title{
+	width: 100%;
+	height: auto;
+	clear: both;
+	float: left;
+	padding: 33px 40px 25px 40px;
+	background-color: #f5f5f5;
+
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
+			box-sizing: border-box; /* Opera/IE 8+ */
+}
+.buildcity_tm_project_details_title h3{
+	font-size: 24px;
+	font-weight: 600;
+	letter-spacing: -0.25px;
+	color: #777;
+}
+.buildcity_tm_details_list_wrap{
+	width: 100%;
+	height: auto;
+	clear: both;
+	float: left;
+	background-color: #f5f5f5;
+	padding:0px 40px 30px 40px;
+
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
+			box-sizing: border-box; /* Opera/IE 8+ */
+}
+.buildcity_tm_details_list_wrap ul{
+	margin: 0px;
+	list-style-type: none;
+}
+.buildcity_tm_details_list_wrap ul li{margin: 0px 0px 21px 0px;}
+.buildcity_tm_details_list_wrap ul li:last-child{margin-bottom: 0px;}
+.buildcity_tm_details_list_wrap ul li label{
+	display: block;
+	font-size: 14px;
+	color: #edb600;
+	line-height: 1.4;
+	margin-bottom: 1px;
+}
+.buildcity_tm_details_list_wrap ul li span{
+	display: block;
+	font-size: 14px;
+	color: #777;
+	line-height: 1.4;
+}
+.buildcity_tm_project_single_wrap .rightbox_inner .project_definition{
+	padding: 0px 40px 44px 40px;
+	background-color: #f5f5f5;
+	float: left;
+
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
+			box-sizing: border-box; /* Opera/IE 8+ */
+}
+.buildcity_tm_project_single_wrap .rightbox_inner .project_definition p{
+	font-size: 14px;
+	line-height: 1.7;
+	color: #777;
+}
+.buildcity_tm_project_single_wrap .rightbox_inner .project_video{
+	padding: 30px 40px 0px 40px;
+	display: inline-block;
+	position: relative;
+}
+.buildcity_tm_project_single_wrap .rightbox_inner .project_video_button{
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	z-index: 111;
+}
+.buildcity_tm_project_single_wrap .rightbox_inner .project_video span{
+	display: inline-block;
+	width: 26px;
+	height: 26px;
+	border-radius: 100%;
+	border: 2px solid #777;
+	text-align: center;
+}
+.buildcity_tm_project_single_wrap .rightbox_inner .project_video span .svg{
+	position: relative;
+	top: 2px;
+	left: 2px;
+	width: 10px;
+	height: 10px;
+	color: #777;
+}
+.buildcity_tm_project_single_wrap .rightbox_inner .project_video .project_time{
+	text-decoration: none;
+	font-size: 14px;
+	color: #777;
+	position: relative;
+	top: 2px;
+	border-bottom: 1px solid transparent;
+	border-bottom-color: #777;
+	margin-left: 7px;
+
+	-webkit-transition: all .3s ease;
+	   -moz-transition: all .3s ease;
+	    -ms-transition: all .3s ease;
+	     -o-transition: all .3s ease;
+	        transition: all .3s ease;
+}
+.buildcity_tm_project_single_wrap .rightbox_inner .project_video:hover .project_time{border-bottom-color: transparent;}
+/*    ??????  */ 
 .buildify_tm_portfolio_list{
 	list-style-type:none;
 	margin: 0px 0px 0px -30px;
