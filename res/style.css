@@ -62,7 +62,13 @@ body{
 .spacer{
 	margin: 1em;
 }
-
+a {
+	text-decoration: none;
+	color: #999;
+}
+.lighter {
+	color: azure !important;
+}
 /*------------------------------------------------------------------*/
 /*	02) BUILDIFY SKELETON
 /*------------------------------------------------------------------*/
@@ -826,6 +832,12 @@ h1,h2,h3,h4,h5,h6{
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
 	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
 			box-sizing: border-box; /* Opera/IE 8+ */
+}
+.wonw {
+	color: black !important;
+}
+.bonw {
+	color: white !important;
 }
 .buildify_tm_main_title_wrap .title h3{
 	font-family: "Raleway";
@@ -2968,12 +2980,7 @@ h1,h2,h3,h4,h5,h6{
 	background-size: cover;
 	box-shadow: rgba(0, 0, 0, 0.08) 10px 10px 10px 0px;
 }
-.buildify_tm_projects_home .projects_list_wrap ul li:nth-child(1) .inner .image{background-image: url(..//img/portfolio/13.jpg);}
-.buildify_tm_projects_home .projects_list_wrap ul li:nth-child(2) .inner .image{background-image: url(..//img/portfolio/16.jpg);}
-.buildify_tm_projects_home .projects_list_wrap ul li:nth-child(3) .inner .image{background-image: url(..//img/portfolio/17.jpg);}
-.buildify_tm_projects_home .projects_list_wrap ul li:nth-child(4) .inner .image{background-image: url(..//img/portfolio/18.jpg);}
-.buildify_tm_projects_home .projects_list_wrap ul li:nth-child(5) .inner .image{background-image: url(..//img/portfolio/19.jpg);}
-.buildify_tm_projects_home .projects_list_wrap ul li:nth-child(6) .inner .image{background-image: url(..//img/portfolio/20.jpg);}
+
 .buildify_tm_projects_home .projects_list_wrap .image_definition {
 	background-color: #e9eff4;
 	padding: 35px 40px 34px 40px;
@@ -3654,7 +3661,7 @@ h1,h2,h3,h4,h5,h6{
 	        transition: all .3s ease;
 }
 .buildcity_tm_project_single_wrap .rightbox_inner .project_video:hover .project_time{border-bottom-color: transparent;}
-/*    ??????  */ 
+/*    ??????  */
 .buildify_tm_portfolio_list{
 	list-style-type:none;
 	margin: 0px 0px 0px -30px;
@@ -3716,12 +3723,14 @@ h1,h2,h3,h4,h5,h6{
 	background-size: cover;
 	box-shadow: rgba(0, 0, 0, 0.08) 10px 10px 10px 0px;
 }
+/*
 .buildify_tm_portfolio_list li:nth-child(1) .inner .image{background-image: url(..//img/portfolio/21.jpg);}
 .buildify_tm_portfolio_list li:nth-child(2) .inner .image{background-image: url(..//img/portfolio/22.jpg);}
 .buildify_tm_portfolio_list li:nth-child(3) .inner .image{background-image: url(..//img/portfolio/23.jpg);}
 .buildify_tm_portfolio_list li:nth-child(4) .inner .image{background-image: url(..//img/portfolio/24.jpg);}
 .buildify_tm_portfolio_list li:nth-child(5) .inner .image{background-image: url(..//img/portfolio/25.jpg);}
 .buildify_tm_portfolio_list li:nth-child(6) .inner .image{background-image: url(..//img/portfolio/26.jpg);}
+*/
 .buildify_tm_projects_wrap  .image_definition {
 	background-color: #e9eff4;
 	padding: 35px 40px 34px 40px;
@@ -5154,7 +5163,7 @@ h1,h2,h3,h4,h5,h6{
 	top: 0px;
 	left: 0px;
 	z-index: 1;
-	background-image: url(..//img/about/counter_image.png);
+	background-image: url(..//res/counter_image.png);
 	background-size: auto;
 	background-repeat: no-repeat;
 	background-position: bottom right;
@@ -5233,13 +5242,13 @@ h1,h2,h3,h4,h5,h6{
 	background-position: center;
 }
 .buildify_tm_about_counter_wrap .counter_image_wrap ul li:nth-child(1) .image{
-	background-image: url(..//img/about/11.jpg);
+	background-image: url(..//img/proje/ev1.jpg);
 }
 .buildify_tm_about_counter_wrap .counter_image_wrap ul li:nth-child(2) .image{
-	background-image: url(..//img/about/12.jpg);
+	background-image: url(..//img/proje/ev2.jpg);
 }
 .buildify_tm_about_counter_wrap .counter_image_wrap ul li:nth-child(3) .image{
-	background-image: url(..//img/about/13.jpg);
+	background-image: url(..//img/proje/site1.jpg);
 }
 .buildify_tm_about_counter_wrap .buildify_tm_counter_list li .inner:before{display: none;}
 .buildify_tm_about_counter_wrap li .overlay{
@@ -6412,7 +6421,7 @@ h1,h2,h3,h4,h5,h6{
 	.buildify_tm_about_counter_wrap .inner_counter .rightbox:before{position: absolute;content: "";top: 100px;left: -200px;right: -200px;bottom: -200px;background-color: #DAA520;z-index: 1;}
 	.buildify_tm_about_counter_wrap .inner_counter .inner_rightbox{position: relative;z-index: 2;background-color: #fff;}
 	.buildify_tm_about_counter_wrap .buildify_tm_counter_list li{width: 50%;}
-	.buildify_tm_about_counter_wrap{padding: 0px 0px 60px 0px;}
+	.buildify_tm_about_counter_wrap{padding: 0px 0px 160px 0px;}
 }
 @media (max-width: 1040px) {
 	.buildify_tm_mobile_header_wrap{display: block;}
