@@ -3012,10 +3012,8 @@ h1,h2,h3,h4,h5,h6{
 .buildify_tm_projects_home .projects_list_wrap .read_more{position: relative;}
 .buildify_tm_projects_home .projects_list_wrap .read_more a{
 	text-decoration: none;
-	font-family: "Montserrat";
-	font-size: 14px;
+	font-family: 'Lora', serif !important;	font-size: 16px;
 	color: #666;
-	text-transform: uppercase;
 	font-weight: 600;
 }
 .buildify_tm_projects_home .projects_list_wrap .read_more .text{padding-right: 5px;}
