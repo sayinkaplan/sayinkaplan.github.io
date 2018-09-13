@@ -1,5 +1,5 @@
 @charset "utf-8";
-@import url('https://fonts.googleapis.com/css?family=Lora');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
 
 /*	Copyright (c) 2018 Marketify
 /*	Author: Marketify
@@ -71,7 +71,14 @@ a {
 	color: azure !important;
 }
 .garamond {
-	font-family: 'Lora', serif;
+	font-family: 'Roboto', serif;
+}
+.golden {
+	color: #DAA520 !important;
+	 text-shadow: 1px 1px #000;
+}
+.gray {
+	color: #999 !important;
 }
 /*------------------------------------------------------------------*/
 /*	02) BUILDIFY SKELETON
@@ -3012,7 +3019,7 @@ h1,h2,h3,h4,h5,h6{
 .buildify_tm_projects_home .projects_list_wrap .read_more{position: relative;}
 .buildify_tm_projects_home .projects_list_wrap .read_more a{
 	text-decoration: none;
-	font-family: 'Lora', serif !important;	font-size: 16px;
+	font-family: 'Roboto', serif !important;	font-size: 16px;
 	color: #666;
 	font-weight: 600;
 }
@@ -3760,7 +3767,7 @@ h1,h2,h3,h4,h5,h6{
 .buildify_tm_projects_wrap .read_more{position: relative;}
 .buildify_tm_projects_wrap .read_more a{
 	text-decoration: none;
-	font-family: 'Lora', serif !important;
+	font-family: 'Roboto', serif !important;
 	font-size: 16px;
 	color: #666;
 	/* text-transform: uppercase; */
