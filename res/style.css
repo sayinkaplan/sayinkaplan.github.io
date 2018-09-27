@@ -6434,7 +6434,7 @@ h1,h2,h3,h4,h5,h6{
 }
 @media (max-width: 1040px) {
 	.buildify_tm_mobile_header_wrap{display: block;}
-	.buildify_tm_topbar_info{background-color: #778899;}
+	.buildify_tm_topbar_info{background-color: #daa520;margin-top: -2em;}
 	.buildify_tm_topbar_info .buildify_tm_social_list{float: left;}
 	.buildify_tm_slider_wrap{padding-top: 0px;}
 	.buildify_tm_connection:after{display: none;}
