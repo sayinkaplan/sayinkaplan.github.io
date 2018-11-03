@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="42 Evler"
+	useFullscreenExpand="true"
+	showThumbsButton="false"
+	indexPageName="42evler_galeri.html"
+
+>
+  <image imageURL="images/42evler1_hd.jpg"
+	thumbURL="thumbs/42evler1_hd.jpg"
+	linkURL="images/42evler1_hd.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Github\sayinkaplan.github.io\img\proje\42e\42evler1_hd.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/42evler2_hd.jpg"
+	thumbURL="thumbs/42evler2_hd.jpg"
+	linkURL="images/42evler2_hd.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Github\sayinkaplan.github.io\img\proje\42e\42evler2_hd.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/42evler3_lq.jpg"
+	thumbURL="thumbs/42evler3_lq.jpg"
+	linkURL="images/42evler3_lq.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Github\sayinkaplan.github.io\img\proje\42e\42evler3_lq.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/42evler4_lq.jpg"
+	thumbURL="thumbs/42evler4_lq.jpg"
+	linkURL="images/42evler4_lq.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Github\sayinkaplan.github.io\img\proje\42e\42evler4_lq.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/42evler7_hd.jpg"
+	thumbURL="thumbs/42evler7_hd.jpg"
+	linkURL="images/42evler7_hd.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Github\sayinkaplan.github.io\img\proje\42e\42evler7_hd.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/42evler8_lq.jpg"
+	thumbURL="thumbs/42evler8_lq.jpg"
+	linkURL="images/42evler8_lq.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Github\sayinkaplan.github.io\img\proje\42e\42evler8_lq.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/diskapi.jpg"
+	thumbURL="thumbs/diskapi.jpg"
+	linkURL="images/diskapi.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Github\sayinkaplan.github.io\img\proje\42e\diskapi.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mutfak1.jpg"
+	thumbURL="thumbs/mutfak1.jpg"
+	linkURL="images/mutfak1.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Github\sayinkaplan.github.io\img\proje\42e\mutfak1.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/oda1.jpg"
+	thumbURL="thumbs/oda1.jpg"
+	linkURL="images/oda1.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Github\sayinkaplan.github.io\img\proje\42e\oda1.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/oda2.jpg"
+	thumbURL="thumbs/oda2.jpg"
+	linkURL="images/oda2.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Github\sayinkaplan.github.io\img\proje\42e\oda2.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/salon1.jpg"
+	thumbURL="thumbs/salon1.jpg"
+	linkURL="images/salon1.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Github\sayinkaplan.github.io\img\proje\42e\salon1.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/salon2.jpg"
+	thumbURL="thumbs/salon2.jpg"
+	linkURL="images/salon2.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Github\sayinkaplan.github.io\img\proje\42e\salon2.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/salon3.jpg"
+	thumbURL="thumbs/salon3.jpg"
+	linkURL="images/salon3.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Github\sayinkaplan.github.io\img\proje\42e\salon3.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/sayinkaplan.jpg"
+	thumbURL="thumbs/sayinkaplan.jpg"
+	linkURL="images/sayinkaplan.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Github\sayinkaplan.github.io\img\proje\42e\sayinkaplan.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/YatakOdasi1.jpg"
+	thumbURL="thumbs/YatakOdasi1.jpg"
+	linkURL="images/YatakOdasi1.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Github\sayinkaplan.github.io\img\proje\42e\YatakOdasi1.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/YatakOdasi2.jpg"
+	thumbURL="thumbs/YatakOdasi2.jpg"
+	linkURL="images/YatakOdasi2.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Github\sayinkaplan.github.io\img\proje\42e\YatakOdasi2.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
